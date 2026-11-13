@@ -1,71 +1,42 @@
-# KISHORE_1803
-# Hi there, I'm Kishore 👋
+# 👋 Hi, I'm Kishore K!
 
-### 💻 Java Full Stack Developer | React | Spring Boot | SQL
+### 💻 Full Stack Developer | Java | Spring Boot | React.js | TypeScript
 
-I'm a passionate Java Full Stack Developer who enjoys building responsive web applications and developing reliable backend systems. I love learning new technologies, solving problems, and turning ideas into practical software solutions.
+I am a passionate developer interested in building scalable, responsive, and user-friendly web applications. I enjoy solving real-world problems through technology and continuously exploring new tools and frameworks.
 
 ---
 
 ### 🚀 About Me
-
-- 🔭 Working on full-stack web development projects
-- 🌱 Learning and improving my skills in Java, Spring Boot, React, and SQL
-- 💡 Interested in building scalable and user-friendly applications
-- 🎯 Goal: To grow as a software developer and contribute to impactful projects
+- 💻 Interested in Full Stack Web Development
+- 🌱 Currently improving my skills in Java, Spring Boot and React.js
+- 🔭 Building real-world full-stack applications
+- 💡 Interested in software engineering and problem-solving
 - 🤝 Open to collaboration and learning opportunities
 
----
+### 🛠️ Technical Skills
 
-### 🛠️ Tech Stack
+**Frontend:** HTML5, CSS3, JavaScript, TypeScript, React.js, Bootstrap
 
-**Frontend**
-- React.js
-- JavaScript
-- HTML5
-- CSS3
+**Backend:** Java, Spring Boot, Spring Security
 
-**Backend**
-- Java
-- Spring Boot
-- REST APIs
+**Database:** MySQL, Oracle
 
-**Database**
-- SQL
-- MySQL
-
-**Tools**
-- Git
-- GitHub
-- VS Code
-- IntelliJ IDEA
-
----
+**Tools:** Git, GitHub, VS Code, Eclipse, Postman
 
 ### 📌 Featured Projects
+- **MakeMyTour** – Full-stack travel booking platform with flight and hotel bookings, cancellation, refunds, reviews, and price freeze.
+- **DM Health and Wealth** – Platform focused on health awareness and financial empowerment.
+- **Elite Ice Creams** – Responsive e-commerce application for ice cream products.
 
-- **Full Stack Web Application** — A responsive React frontend integrated with a Java Spring Boot backend.
-- **REST API Project** — Backend APIs built using Spring Boot for data management and application integration.
-- **Database Management Project** — SQL-based database operations, queries, and relational data management.
+### 📊 GitHub Goals
+- Build practical projects
+- Improve problem-solving and coding skills
+- Explore modern development technologies
+- Contribute to open-source projects
 
-*Replace these examples with your actual project names, descriptions, and repository links.*
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kishore1803&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore1803&layout=compact&theme=tokyonight)
-
----
-
-### 📫 Connect With Me
-
-- GitHub: https://github.com/Kishore1803
+### 🤝 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/kishore-k-25b131288
+- Portfolio: https://portfolio-1-nine-pi.vercel.app/
+- GitHub: https://github.com/Kishore1803/
 
----
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-
+**"Turning ideas into code and code into solutions."**
