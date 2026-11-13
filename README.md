@@ -7,11 +7,11 @@ I am a passionate developer interested in building scalable, responsive, and use
 ---
 
 ### 🚀 About Me
-- 💻 Interested in Full Stack Web Development
-- 🌱 Currently improving my skills in Java, Spring Boot and React.js
-- 🔭 Building real-world full-stack applications
-- 💡 Interested in software engineering and problem-solving
-- 🤝 Open to collaboration and learning opportunities
+💻 Interested in Full Stack Web Development
+🌱 Currently improving my skills in Java, Spring Boot and React.js
+🔭 Building real-world full-stack applications
+💡 Interested in software engineering and problem-solving
+🤝 Open to collaboration and learning opportunities
 
 ### 🛠️ Technical Skills
 
